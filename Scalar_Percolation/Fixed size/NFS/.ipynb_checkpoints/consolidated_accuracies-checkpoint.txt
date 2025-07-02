@@ -1,0 +1,144 @@
+
+========================================
+Configuration: 3^2
+========================================
+Fixed Points (intersection with y=x):
+  Values: ['0.4944']
+  Mean: 0.4944 ± 0.0000
+
+smaller_0.1-0.9:
+  Mean Accuracy: 14.00% ± 0.00%
+  Individual Runs: ['14.00%']
+
+standard_0.1-0.9:
+  Mean Accuracy: 95.00% ± 0.00%
+  Individual Runs: ['95.00%']
+
+larger_0.1-0.9:
+  Mean Accuracy: 4.00% ± 0.00%
+  Individual Runs: ['4.00%']
+
+standard_0.58-0.61:
+  Mean Accuracy: 80.00% ± 0.00%
+  Individual Runs: ['80.00%']
+
+
+========================================
+Configuration: 3^3
+========================================
+Fixed Points (intersection with y=x):
+  Values: ['0.2989']
+  Mean: 0.2989 ± 0.0000
+
+smaller_0.1-0.9:
+  Mean Accuracy: 46.00% ± 0.00%
+  Individual Runs: ['46.00%']
+
+standard_0.1-0.9:
+  Mean Accuracy: 97.00% ± 0.00%
+  Individual Runs: ['97.00%']
+
+larger_0.1-0.9:
+  Mean Accuracy: 45.00% ± 0.00%
+  Individual Runs: ['45.00%']
+
+standard_0.58-0.61:
+  Mean Accuracy: 67.50% ± 0.00%
+  Individual Runs: ['67.50%']
+
+
+========================================
+Configuration: 3^4
+========================================
+Fixed Points (intersection with y=x):
+  Values: ['0.4992']
+  Mean: 0.4992 ± 0.0000
+
+smaller_0.1-0.9:
+  Mean Accuracy: 4.00% ± 0.00%
+  Individual Runs: ['4.00%']
+
+standard_0.1-0.9:
+  Mean Accuracy: 100.00% ± 0.00%
+  Individual Runs: ['100.00%']
+
+larger_0.1-0.9:
+  Mean Accuracy: 4.00% ± 0.00%
+  Individual Runs: ['4.00%']
+
+standard_0.58-0.61:
+  Mean Accuracy: 74.50% ± 0.00%
+  Individual Runs: ['74.50%']
+
+
+========================================
+Configuration: 4^2
+========================================
+Fixed Points (intersection with y=x):
+  Values: ['0.4602']
+  Mean: 0.4602 ± 0.0000
+
+smaller_0.1-0.9:
+  Mean Accuracy: 6.00% ± 0.00%
+  Individual Runs: ['6.00%']
+
+standard_0.1-0.9:
+  Mean Accuracy: 94.00% ± 0.00%
+  Individual Runs: ['94.00%']
+
+larger_0.1-0.9:
+  Mean Accuracy: 2.00% ± 0.00%
+  Individual Runs: ['2.00%']
+
+standard_0.58-0.61:
+  Mean Accuracy: 70.50% ± 0.00%
+  Individual Runs: ['70.50%']
+
+
+========================================
+Configuration: 4^3
+========================================
+Fixed Points (intersection with y=x):
+  Values: ['0.6669']
+  Mean: 0.6669 ± 0.0000
+
+smaller_0.1-0.9:
+  Mean Accuracy: 39.00% ± 0.00%
+  Individual Runs: ['39.00%']
+
+standard_0.1-0.9:
+  Mean Accuracy: 97.00% ± 0.00%
+  Individual Runs: ['97.00%']
+
+larger_0.1-0.9:
+  Mean Accuracy: 40.00% ± 0.00%
+  Individual Runs: ['40.00%']
+
+standard_0.58-0.61:
+  Mean Accuracy: 57.00% ± 0.00%
+  Individual Runs: ['57.00%']
+
+
+========================================
+Configuration: 4^4
+========================================
+Fixed Points (intersection with y=x):
+  Values: ['0.5003']
+  Mean: 0.5003 ± 0.0000
+
+smaller_0.1-0.9:
+  Mean Accuracy: 1.00% ± 0.00%
+  Individual Runs: ['1.00%']
+
+standard_0.1-0.9:
+  Mean Accuracy: 99.00% ± 0.00%
+  Individual Runs: ['99.00%']
+
+larger_0.1-0.9:
+  Mean Accuracy: 0.00% ± 0.00%
+  Individual Runs: ['0.00%']
+
+standard_0.58-0.61:
+  Mean Accuracy: 76.50% ± 0.00%
+  Individual Runs: ['76.50%']
+

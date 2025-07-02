@@ -1,0 +1,980 @@
+
+========================================
+Configuration: 3^2
+========================================
+Fixed Points (intersection with f(p) = p):
+  Values: ['0.627188', '0.680351', '0.637626', '0.656385', '0.669057', '0.585920', '0.626622', '0.614880', '0.646841', '0.625164']
+  Mean: 0.637003 ± 0.026120
+
+smaller 0.1-0.9:
+  Run 1:
+    Accuracy: 0.8800
+    Avg prediction | Perc: 0.8442
+    Avg prediction | Non-Perc: 0.1510
+  Run 2:
+    Accuracy: 0.8600
+    Avg prediction | Perc: 0.8277
+    Avg prediction | Non-Perc: 0.1641
+  Run 3:
+    Accuracy: 0.9300
+    Avg prediction | Perc: 0.9182
+    Avg prediction | Non-Perc: 0.1199
+  Run 4:
+    Accuracy: 0.8700
+    Avg prediction | Perc: 0.8427
+    Avg prediction | Non-Perc: 0.1484
+  Run 5:
+    Accuracy: 0.9100
+    Avg prediction | Perc: 0.8737
+    Avg prediction | Non-Perc: 0.1064
+  Run 6:
+    Accuracy: 0.9100
+    Avg prediction | Perc: 0.8527
+    Avg prediction | Non-Perc: 0.1424
+  Run 7:
+    Accuracy: 0.9300
+    Avg prediction | Perc: 0.9039
+    Avg prediction | Non-Perc: 0.1211
+  Run 8:
+    Accuracy: 0.9200
+    Avg prediction | Perc: 0.9012
+    Avg prediction | Non-Perc: 0.1093
+  Run 9:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9079
+    Avg prediction | Non-Perc: 0.1409
+  Run 10:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9006
+    Avg prediction | Non-Perc: 0.1222
+
+  Summary statistics:
+    Accuracy: 0.9110 ± 0.0305
+    Avg prediction | Perc: 0.8773 ± 0.0313
+    Avg prediction | Non-Perc: 0.1326 ± 0.0184
+
+standard 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9200
+    Avg prediction | Perc: 0.8921
+    Avg prediction | Non-Perc: 0.0809
+  Run 2:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.8799
+    Avg prediction | Non-Perc: 0.0377
+  Run 3:
+    Accuracy: 0.8900
+    Avg prediction | Perc: 0.8605
+    Avg prediction | Non-Perc: 0.0949
+  Run 4:
+    Accuracy: 0.8900
+    Avg prediction | Perc: 0.8830
+    Avg prediction | Non-Perc: 0.1001
+  Run 5:
+    Accuracy: 0.9200
+    Avg prediction | Perc: 0.8795
+    Avg prediction | Non-Perc: 0.1180
+  Run 6:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9723
+    Avg prediction | Non-Perc: 0.1183
+  Run 7:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.8989
+    Avg prediction | Non-Perc: 0.0682
+  Run 8:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9212
+    Avg prediction | Non-Perc: 0.0999
+  Run 9:
+    Accuracy: 0.9200
+    Avg prediction | Perc: 0.8911
+    Avg prediction | Non-Perc: 0.1193
+  Run 10:
+    Accuracy: 0.9300
+    Avg prediction | Perc: 0.8822
+    Avg prediction | Non-Perc: 0.0860
+
+  Summary statistics:
+    Accuracy: 0.9230 ± 0.0185
+    Avg prediction | Perc: 0.8960 ± 0.0294
+    Avg prediction | Non-Perc: 0.0923 ± 0.0243
+
+larger 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9603
+    Avg prediction | Non-Perc: 0.0394
+  Run 2:
+    Accuracy: 0.9300
+    Avg prediction | Perc: 0.8992
+    Avg prediction | Non-Perc: 0.0477
+  Run 3:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9611
+    Avg prediction | Non-Perc: 0.0054
+  Run 4:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9668
+    Avg prediction | Non-Perc: 0.0713
+  Run 5:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.8936
+    Avg prediction | Non-Perc: 0.0305
+  Run 6:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9719
+    Avg prediction | Non-Perc: 0.1043
+  Run 7:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9095
+    Avg prediction | Non-Perc: 0.0529
+  Run 8:
+    Accuracy: 0.9200
+    Avg prediction | Perc: 0.9569
+    Avg prediction | Non-Perc: 0.0929
+  Run 9:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9336
+    Avg prediction | Non-Perc: 0.0516
+  Run 10:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9617
+    Avg prediction | Non-Perc: 0.0580
+
+  Summary statistics:
+    Accuracy: 0.9500 ± 0.0200
+    Avg prediction | Perc: 0.9414 ± 0.0285
+    Avg prediction | Non-Perc: 0.0554 ± 0.0274
+
+standard 0.58-0.61:
+  Run 1:
+    Accuracy: 0.7500
+    Avg prediction | Perc: 0.8370
+    Avg prediction | Non-Perc: 0.6268
+  Run 2:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.6920
+    Avg prediction | Non-Perc: 0.4777
+  Run 3:
+    Accuracy: 0.7700
+    Avg prediction | Perc: 0.8083
+    Avg prediction | Non-Perc: 0.5708
+  Run 4:
+    Accuracy: 0.7650
+    Avg prediction | Perc: 0.7784
+    Avg prediction | Non-Perc: 0.5260
+  Run 5:
+    Accuracy: 0.7150
+    Avg prediction | Perc: 0.7585
+    Avg prediction | Non-Perc: 0.5278
+  Run 6:
+    Accuracy: 0.7350
+    Avg prediction | Perc: 0.8538
+    Avg prediction | Non-Perc: 0.6141
+  Run 7:
+    Accuracy: 0.7750
+    Avg prediction | Perc: 0.8030
+    Avg prediction | Non-Perc: 0.5562
+  Run 8:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.8010
+    Avg prediction | Non-Perc: 0.5540
+  Run 9:
+    Accuracy: 0.7700
+    Avg prediction | Perc: 0.7715
+    Avg prediction | Non-Perc: 0.5348
+  Run 10:
+    Accuracy: 0.7700
+    Avg prediction | Perc: 0.8160
+    Avg prediction | Non-Perc: 0.6163
+
+  Summary statistics:
+    Accuracy: 0.7540 ± 0.0184
+    Avg prediction | Perc: 0.7919 ± 0.0432
+    Avg prediction | Non-Perc: 0.5605 ± 0.0451
+
+
+========================================
+Configuration: 3^3
+========================================
+Fixed Points (intersection with f(p) = p):
+  Values: ['0.621522', '0.636802', '0.656700', '0.593547', '0.650751', '0.613746', '0.654175', '0.647528', '0.603692', '0.614651']
+  Mean: 0.629311 ± 0.021609
+
+smaller 0.1-0.9:
+  Run 1:
+    Accuracy: 0.0800
+    Avg prediction | Perc: 0.2278
+    Avg prediction | Non-Perc: 0.9783
+  Run 2:
+    Accuracy: 0.0900
+    Avg prediction | Perc: 0.2174
+    Avg prediction | Non-Perc: 0.9839
+  Run 3:
+    Accuracy: 0.1700
+    Avg prediction | Perc: 0.3441
+    Avg prediction | Non-Perc: 0.9693
+  Run 4:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9233
+    Avg prediction | Non-Perc: 0.0909
+  Run 5:
+    Accuracy: 0.0900
+    Avg prediction | Perc: 0.2612
+    Avg prediction | Non-Perc: 0.9934
+  Run 6:
+    Accuracy: 0.9200
+    Avg prediction | Perc: 0.8651
+    Avg prediction | Non-Perc: 0.0917
+  Run 7:
+    Accuracy: 0.1300
+    Avg prediction | Perc: 0.2661
+    Avg prediction | Non-Perc: 0.9679
+  Run 8:
+    Accuracy: 0.1200
+    Avg prediction | Perc: 0.2857
+    Avg prediction | Non-Perc: 0.9658
+  Run 9:
+    Accuracy: 0.1000
+    Avg prediction | Perc: 0.2030
+    Avg prediction | Non-Perc: 0.9502
+  Run 10:
+    Accuracy: 0.1400
+    Avg prediction | Perc: 0.3120
+    Avg prediction | Non-Perc: 0.9852
+
+  Summary statistics:
+    Accuracy: 0.2800 ± 0.3311
+    Avg prediction | Perc: 0.3906 ± 0.2554
+    Avg prediction | Non-Perc: 0.7977 ± 0.3534
+
+standard 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9700
+    Avg prediction | Perc: 0.9630
+    Avg prediction | Non-Perc: 0.0482
+  Run 2:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9814
+    Avg prediction | Non-Perc: 0.1057
+  Run 3:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9257
+    Avg prediction | Non-Perc: 0.0551
+  Run 4:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9808
+    Avg prediction | Non-Perc: 0.0550
+  Run 5:
+    Accuracy: 0.9700
+    Avg prediction | Perc: 0.9645
+    Avg prediction | Non-Perc: 0.0505
+  Run 6:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.8989
+    Avg prediction | Non-Perc: 0.0579
+  Run 7:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9782
+    Avg prediction | Non-Perc: 0.0849
+  Run 8:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9079
+    Avg prediction | Non-Perc: 0.0319
+  Run 9:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9387
+    Avg prediction | Non-Perc: 0.0514
+  Run 10:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9501
+    Avg prediction | Non-Perc: 0.0798
+
+  Summary statistics:
+    Accuracy: 0.9540 ± 0.0111
+    Avg prediction | Perc: 0.9489 ± 0.0286
+    Avg prediction | Non-Perc: 0.0620 ± 0.0205
+
+larger 0.1-0.9:
+  Run 1:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0108
+    Avg prediction | Non-Perc: 0.9778
+  Run 2:
+    Accuracy: 0.0100
+    Avg prediction | Perc: 0.0477
+    Avg prediction | Non-Perc: 0.9940
+  Run 3:
+    Accuracy: 0.0400
+    Avg prediction | Perc: 0.0888
+    Avg prediction | Non-Perc: 0.9802
+  Run 4:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9621
+    Avg prediction | Non-Perc: 0.0540
+  Run 5:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0666
+    Avg prediction | Non-Perc: 0.9958
+  Run 6:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9629
+    Avg prediction | Non-Perc: 0.0101
+  Run 7:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0632
+    Avg prediction | Non-Perc: 0.9998
+  Run 8:
+    Accuracy: 0.0000
+    Avg prediction | Perc: 0.0138
+    Avg prediction | Non-Perc: 0.9904
+  Run 9:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0306
+    Avg prediction | Non-Perc: 0.9737
+  Run 10:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0546
+    Avg prediction | Non-Perc: 0.9853
+
+  Summary statistics:
+    Accuracy: 0.2100 ± 0.3827
+    Avg prediction | Perc: 0.2301 ± 0.3669
+    Avg prediction | Non-Perc: 0.7961 ± 0.3822
+
+standard 0.58-0.61:
+  Run 1:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.8729
+    Avg prediction | Non-Perc: 0.7388
+  Run 2:
+    Accuracy: 0.6550
+    Avg prediction | Perc: 0.7866
+    Avg prediction | Non-Perc: 0.6514
+  Run 3:
+    Accuracy: 0.7000
+    Avg prediction | Perc: 0.7858
+    Avg prediction | Non-Perc: 0.6559
+  Run 4:
+    Accuracy: 0.6900
+    Avg prediction | Perc: 0.8529
+    Avg prediction | Non-Perc: 0.7648
+  Run 5:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.7840
+    Avg prediction | Non-Perc: 0.6288
+  Run 6:
+    Accuracy: 0.7050
+    Avg prediction | Perc: 0.7589
+    Avg prediction | Non-Perc: 0.5943
+  Run 7:
+    Accuracy: 0.7000
+    Avg prediction | Perc: 0.8181
+    Avg prediction | Non-Perc: 0.7251
+  Run 8:
+    Accuracy: 0.7050
+    Avg prediction | Perc: 0.7814
+    Avg prediction | Non-Perc: 0.5473
+  Run 9:
+    Accuracy: 0.6850
+    Avg prediction | Perc: 0.8908
+    Avg prediction | Non-Perc: 0.7561
+  Run 10:
+    Accuracy: 0.7000
+    Avg prediction | Perc: 0.7878
+    Avg prediction | Non-Perc: 0.6433
+
+  Summary statistics:
+    Accuracy: 0.7030 ± 0.0252
+    Avg prediction | Perc: 0.8119 ± 0.0425
+    Avg prediction | Non-Perc: 0.6706 ± 0.0692
+
+
+========================================
+Configuration: 3^4
+========================================
+Fixed Points (intersection with f(p) = p):
+  Values: ['0.243771', '0.230521', '0.227136', '0.231655', '0.234227', '0.235980', '0.232262', '0.238775', '0.573767', '0.229162']
+  Mean: 0.267726 ± 0.102118
+
+smaller 0.1-0.9:
+  Run 1:
+    Accuracy: 0.4800
+    Avg prediction | Perc: 0.0807
+    Avg prediction | Non-Perc: 0.3665
+  Run 2:
+    Accuracy: 0.4100
+    Avg prediction | Perc: 0.1134
+    Avg prediction | Non-Perc: 0.4057
+  Run 3:
+    Accuracy: 0.4600
+    Avg prediction | Perc: 0.0968
+    Avg prediction | Non-Perc: 0.3584
+  Run 4:
+    Accuracy: 0.3300
+    Avg prediction | Perc: 0.1104
+    Avg prediction | Non-Perc: 0.4303
+  Run 5:
+    Accuracy: 0.2400
+    Avg prediction | Perc: 0.1119
+    Avg prediction | Non-Perc: 0.5570
+  Run 6:
+    Accuracy: 0.4500
+    Avg prediction | Perc: 0.1155
+    Avg prediction | Non-Perc: 0.3238
+  Run 7:
+    Accuracy: 0.4800
+    Avg prediction | Perc: 0.1033
+    Avg prediction | Non-Perc: 0.3870
+  Run 8:
+    Accuracy: 0.5300
+    Avg prediction | Perc: 0.1011
+    Avg prediction | Non-Perc: 0.3235
+  Run 9:
+    Accuracy: 0.9300
+    Avg prediction | Perc: 0.9055
+    Avg prediction | Non-Perc: 0.0523
+  Run 10:
+    Accuracy: 0.3900
+    Avg prediction | Perc: 0.1006
+    Avg prediction | Non-Perc: 0.4034
+
+  Summary statistics:
+    Accuracy: 0.4700 ± 0.1727
+    Avg prediction | Perc: 0.1839 ± 0.2407
+    Avg prediction | Non-Perc: 0.3608 ± 0.1207
+
+standard 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.8656
+    Avg prediction | Non-Perc: 0.0858
+  Run 2:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.8700
+    Avg prediction | Non-Perc: 0.1139
+  Run 3:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.8647
+    Avg prediction | Non-Perc: 0.1063
+  Run 4:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.8449
+    Avg prediction | Non-Perc: 0.0828
+  Run 5:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.8173
+    Avg prediction | Non-Perc: 0.1059
+  Run 6:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.8754
+    Avg prediction | Non-Perc: 0.1241
+  Run 7:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.8626
+    Avg prediction | Non-Perc: 0.0854
+  Run 8:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.8538
+    Avg prediction | Non-Perc: 0.1126
+  Run 9:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9772
+    Avg prediction | Non-Perc: 0.0176
+  Run 10:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9032
+    Avg prediction | Non-Perc: 0.1058
+
+  Summary statistics:
+    Accuracy: 0.9760 ± 0.0162
+    Avg prediction | Perc: 0.8735 ± 0.0403
+    Avg prediction | Non-Perc: 0.0940 ± 0.0286
+
+larger 0.1-0.9:
+  Run 1:
+    Accuracy: 0.0900
+    Avg prediction | Perc: 0.3855
+    Avg prediction | Non-Perc: 0.7669
+  Run 2:
+    Accuracy: 0.0900
+    Avg prediction | Perc: 0.3695
+    Avg prediction | Non-Perc: 0.7122
+  Run 3:
+    Accuracy: 0.0600
+    Avg prediction | Perc: 0.4041
+    Avg prediction | Non-Perc: 0.7887
+  Run 4:
+    Accuracy: 0.0100
+    Avg prediction | Perc: 0.3155
+    Avg prediction | Non-Perc: 0.8674
+  Run 5:
+    Accuracy: 0.0000
+    Avg prediction | Perc: 0.2858
+    Avg prediction | Non-Perc: 0.8650
+  Run 6:
+    Accuracy: 0.0600
+    Avg prediction | Perc: 0.3849
+    Avg prediction | Non-Perc: 0.7960
+  Run 7:
+    Accuracy: 0.0300
+    Avg prediction | Perc: 0.3849
+    Avg prediction | Non-Perc: 0.8250
+  Run 8:
+    Accuracy: 0.1100
+    Avg prediction | Perc: 0.3933
+    Avg prediction | Non-Perc: 0.7327
+  Run 9:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9958
+    Avg prediction | Non-Perc: 0.0405
+  Run 10:
+    Accuracy: 0.0500
+    Avg prediction | Perc: 0.4041
+    Avg prediction | Non-Perc: 0.8145
+
+  Summary statistics:
+    Accuracy: 0.1480 ± 0.2793
+    Avg prediction | Perc: 0.4323 ± 0.1914
+    Avg prediction | Non-Perc: 0.7209 ± 0.2318
+
+standard 0.58-0.61:
+  Run 1:
+    Accuracy: 0.6450
+    Avg prediction | Perc: 0.6116
+    Avg prediction | Non-Perc: 0.4766
+  Run 2:
+    Accuracy: 0.6350
+    Avg prediction | Perc: 0.5879
+    Avg prediction | Non-Perc: 0.4229
+  Run 3:
+    Accuracy: 0.7100
+    Avg prediction | Perc: 0.7601
+    Avg prediction | Non-Perc: 0.7172
+  Run 4:
+    Accuracy: 0.4350
+    Avg prediction | Perc: 0.3498
+    Avg prediction | Non-Perc: 0.2086
+  Run 5:
+    Accuracy: 0.4000
+    Avg prediction | Perc: 0.3334
+    Avg prediction | Non-Perc: 0.1917
+  Run 6:
+    Accuracy: 0.7100
+    Avg prediction | Perc: 0.7088
+    Avg prediction | Non-Perc: 0.5781
+  Run 7:
+    Accuracy: 0.6550
+    Avg prediction | Perc: 0.6535
+    Avg prediction | Non-Perc: 0.5431
+  Run 8:
+    Accuracy: 0.5900
+    Avg prediction | Perc: 0.6022
+    Avg prediction | Non-Perc: 0.5033
+  Run 9:
+    Accuracy: 0.6900
+    Avg prediction | Perc: 0.8876
+    Avg prediction | Non-Perc: 0.8451
+  Run 10:
+    Accuracy: 0.7500
+    Avg prediction | Perc: 0.7213
+    Avg prediction | Non-Perc: 0.5658
+
+  Summary statistics:
+    Accuracy: 0.6220 ± 0.1112
+    Avg prediction | Perc: 0.6216 ± 0.1634
+    Avg prediction | Non-Perc: 0.5052 ± 0.1910
+
+
+========================================
+Configuration: 4^2
+========================================
+Fixed Points (intersection with f(p) = p):
+  Values: ['0.693238', '0.582318', '0.610028', '0.693555', '0.640814', '0.620948', '0.670269', '0.655768', '0.725749', '0.618875']
+  Mean: 0.651156 ± 0.042439
+
+smaller 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9000
+    Avg prediction | Perc: 0.8183
+    Avg prediction | Non-Perc: 0.1328
+  Run 2:
+    Accuracy: 0.9100
+    Avg prediction | Perc: 0.8669
+    Avg prediction | Non-Perc: 0.1199
+  Run 3:
+    Accuracy: 0.9000
+    Avg prediction | Perc: 0.9041
+    Avg prediction | Non-Perc: 0.1584
+  Run 4:
+    Accuracy: 0.9100
+    Avg prediction | Perc: 0.8898
+    Avg prediction | Non-Perc: 0.1717
+  Run 5:
+    Accuracy: 0.8800
+    Avg prediction | Perc: 0.8302
+    Avg prediction | Non-Perc: 0.0997
+  Run 6:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9185
+    Avg prediction | Non-Perc: 0.0956
+  Run 7:
+    Accuracy: 0.8900
+    Avg prediction | Perc: 0.8184
+    Avg prediction | Non-Perc: 0.1071
+  Run 8:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9399
+    Avg prediction | Non-Perc: 0.1203
+  Run 9:
+    Accuracy: 0.9000
+    Avg prediction | Perc: 0.8682
+    Avg prediction | Non-Perc: 0.1385
+  Run 10:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9087
+    Avg prediction | Non-Perc: 0.1147
+
+  Summary statistics:
+    Accuracy: 0.9140 ± 0.0254
+    Avg prediction | Perc: 0.8763 ± 0.0410
+    Avg prediction | Non-Perc: 0.1259 ± 0.0235
+
+standard 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9700
+    Avg prediction | Perc: 0.9239
+    Avg prediction | Non-Perc: 0.0391
+  Run 2:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.9684
+    Avg prediction | Non-Perc: 0.1125
+  Run 3:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9650
+    Avg prediction | Non-Perc: 0.0914
+  Run 4:
+    Accuracy: 0.9400
+    Avg prediction | Perc: 0.8638
+    Avg prediction | Non-Perc: 0.0389
+  Run 5:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9242
+    Avg prediction | Non-Perc: 0.0344
+  Run 6:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9475
+    Avg prediction | Non-Perc: 0.0669
+  Run 7:
+    Accuracy: 0.8800
+    Avg prediction | Perc: 0.8940
+    Avg prediction | Non-Perc: 0.1129
+  Run 8:
+    Accuracy: 0.9100
+    Avg prediction | Perc: 0.8795
+    Avg prediction | Non-Perc: 0.0977
+  Run 9:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.8743
+    Avg prediction | Non-Perc: 0.0355
+  Run 10:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9239
+    Avg prediction | Non-Perc: 0.0714
+
+  Summary statistics:
+    Accuracy: 0.9410 ± 0.0255
+    Avg prediction | Perc: 0.9165 ± 0.0355
+    Avg prediction | Non-Perc: 0.0701 ± 0.0304
+
+larger 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9490
+    Avg prediction | Non-Perc: 0.0049
+  Run 2:
+    Accuracy: 0.9700
+    Avg prediction | Perc: 0.9948
+    Avg prediction | Non-Perc: 0.0730
+  Run 3:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9743
+    Avg prediction | Non-Perc: 0.0443
+  Run 4:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9780
+    Avg prediction | Non-Perc: 0.0157
+  Run 5:
+    Accuracy: 0.9700
+    Avg prediction | Perc: 0.9763
+    Avg prediction | Non-Perc: 0.0527
+  Run 6:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9936
+    Avg prediction | Non-Perc: 0.0395
+  Run 7:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9647
+    Avg prediction | Non-Perc: 0.0301
+  Run 8:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9863
+    Avg prediction | Non-Perc: 0.0261
+  Run 9:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9412
+    Avg prediction | Non-Perc: 0.0019
+  Run 10:
+    Accuracy: 1.0000
+    Avg prediction | Perc: 0.9777
+    Avg prediction | Non-Perc: 0.0114
+
+  Summary statistics:
+    Accuracy: 0.9830 ± 0.0119
+    Avg prediction | Perc: 0.9736 ± 0.0167
+    Avg prediction | Non-Perc: 0.0300 ± 0.0216
+
+standard 0.58-0.61:
+  Run 1:
+    Accuracy: 0.7050
+    Avg prediction | Perc: 0.7432
+    Avg prediction | Non-Perc: 0.5559
+  Run 2:
+    Accuracy: 0.7150
+    Avg prediction | Perc: 0.8784
+    Avg prediction | Non-Perc: 0.7775
+  Run 3:
+    Accuracy: 0.7500
+    Avg prediction | Perc: 0.8536
+    Avg prediction | Non-Perc: 0.6739
+  Run 4:
+    Accuracy: 0.7000
+    Avg prediction | Perc: 0.7103
+    Avg prediction | Non-Perc: 0.5218
+  Run 5:
+    Accuracy: 0.7750
+    Avg prediction | Perc: 0.8231
+    Avg prediction | Non-Perc: 0.5989
+  Run 6:
+    Accuracy: 0.7950
+    Avg prediction | Perc: 0.8518
+    Avg prediction | Non-Perc: 0.6406
+  Run 7:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.7839
+    Avg prediction | Non-Perc: 0.5970
+  Run 8:
+    Accuracy: 0.7400
+    Avg prediction | Perc: 0.7982
+    Avg prediction | Non-Perc: 0.5930
+  Run 9:
+    Accuracy: 0.7350
+    Avg prediction | Perc: 0.6842
+    Avg prediction | Non-Perc: 0.4592
+  Run 10:
+    Accuracy: 0.7300
+    Avg prediction | Perc: 0.8252
+    Avg prediction | Non-Perc: 0.6433
+
+  Summary statistics:
+    Accuracy: 0.7390 ± 0.0282
+    Avg prediction | Perc: 0.7952 ± 0.0613
+    Avg prediction | Non-Perc: 0.6061 ± 0.0825
+
+
+========================================
+Configuration: 4^3
+========================================
+Fixed Points (intersection with f(p) = p):
+  Values: ['0.649278', '0.603209', '0.652830', '0.678634', '0.570959', '0.653325', '0.695080', '0.619260', '0.646923', '0.616993']
+  Mean: 0.638649 ± 0.034733
+
+smaller 0.1-0.9:
+  Run 1:
+    Accuracy: 0.0800
+    Avg prediction | Perc: 0.2370
+    Avg prediction | Non-Perc: 0.9917
+  Run 2:
+    Accuracy: 0.1100
+    Avg prediction | Perc: 0.1931
+    Avg prediction | Non-Perc: 0.9431
+  Run 3:
+    Accuracy: 0.1500
+    Avg prediction | Perc: 0.3131
+    Avg prediction | Non-Perc: 0.9789
+  Run 4:
+    Accuracy: 0.1000
+    Avg prediction | Perc: 0.2672
+    Avg prediction | Non-Perc: 0.9978
+  Run 5:
+    Accuracy: 0.0400
+    Avg prediction | Perc: 0.1362
+    Avg prediction | Non-Perc: 0.9881
+  Run 6:
+    Accuracy: 0.1000
+    Avg prediction | Perc: 0.2095
+    Avg prediction | Non-Perc: 0.9788
+  Run 7:
+    Accuracy: 0.9000
+    Avg prediction | Perc: 0.8197
+    Avg prediction | Non-Perc: 0.0527
+  Run 8:
+    Accuracy: 0.0600
+    Avg prediction | Perc: 0.1599
+    Avg prediction | Non-Perc: 0.9887
+  Run 9:
+    Accuracy: 0.1000
+    Avg prediction | Perc: 0.2247
+    Avg prediction | Non-Perc: 0.9841
+  Run 10:
+    Accuracy: 0.0700
+    Avg prediction | Perc: 0.1446
+    Avg prediction | Non-Perc: 0.9629
+
+  Summary statistics:
+    Accuracy: 0.1710 ± 0.2447
+    Avg prediction | Perc: 0.2705 ± 0.1904
+    Avg prediction | Non-Perc: 0.8867 ± 0.2784
+
+standard 0.1-0.9:
+  Run 1:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9609
+    Avg prediction | Non-Perc: 0.0439
+  Run 2:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9999
+    Avg prediction | Non-Perc: 0.0818
+  Run 3:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9387
+    Avg prediction | Non-Perc: 0.0474
+  Run 4:
+    Accuracy: 0.9600
+    Avg prediction | Perc: 0.9258
+    Avg prediction | Non-Perc: 0.0378
+  Run 5:
+    Accuracy: 0.9500
+    Avg prediction | Perc: 0.9985
+    Avg prediction | Non-Perc: 0.0816
+  Run 6:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9827
+    Avg prediction | Non-Perc: 0.0416
+  Run 7:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9160
+    Avg prediction | Non-Perc: 0.0028
+  Run 8:
+    Accuracy: 0.9900
+    Avg prediction | Perc: 0.9973
+    Avg prediction | Non-Perc: 0.0192
+  Run 9:
+    Accuracy: 1.0000
+    Avg prediction | Perc: 0.9912
+    Avg prediction | Non-Perc: 0.0079
+  Run 10:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9968
+    Avg prediction | Non-Perc: 0.0432
+
+  Summary statistics:
+    Accuracy: 0.9710 ± 0.0164
+    Avg prediction | Perc: 0.9708 ± 0.0312
+    Avg prediction | Non-Perc: 0.0407 ± 0.0253
+
+larger 0.1-0.9:
+  Run 1:
+    Accuracy: 0.0000
+    Avg prediction | Perc: 0.0090
+    Avg prediction | Non-Perc: 0.9987
+  Run 2:
+    Accuracy: 0.0400
+    Avg prediction | Perc: 0.0017
+    Avg prediction | Non-Perc: 0.9471
+  Run 3:
+    Accuracy: 0.0000
+    Avg prediction | Perc: 0.0198
+    Avg prediction | Non-Perc: 0.9999
+  Run 4:
+    Accuracy: 0.0400
+    Avg prediction | Perc: 0.0799
+    Avg prediction | Non-Perc: 1.0000
+  Run 5:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0022
+    Avg prediction | Non-Perc: 0.9639
+  Run 6:
+    Accuracy: 0.0200
+    Avg prediction | Perc: 0.0668
+    Avg prediction | Non-Perc: 0.9997
+  Run 7:
+    Accuracy: 0.9800
+    Avg prediction | Perc: 0.9253
+    Avg prediction | Non-Perc: 0.0003
+  Run 8:
+    Accuracy: 0.0100
+    Avg prediction | Perc: 0.0118
+    Avg prediction | Non-Perc: 0.9849
+  Run 9:
+    Accuracy: 0.0000
+    Avg prediction | Perc: 0.0106
+    Avg prediction | Non-Perc: 0.9987
+  Run 10:
+    Accuracy: 0.0000
+    Avg prediction | Perc: 0.0065
+    Avg prediction | Non-Perc: 0.9911
+
+  Summary statistics:
+    Accuracy: 0.1110 ± 0.2900
+    Avg prediction | Perc: 0.1133 ± 0.2719
+    Avg prediction | Non-Perc: 0.8884 ± 0.2965
+
+standard 0.58-0.61:
+  Run 1:
+    Accuracy: 0.7550
+    Avg prediction | Perc: 0.8307
+    Avg prediction | Non-Perc: 0.6131
+  Run 2:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.9596
+    Avg prediction | Non-Perc: 0.8702
+  Run 3:
+    Accuracy: 0.7150
+    Avg prediction | Perc: 0.7771
+    Avg prediction | Non-Perc: 0.5534
+  Run 4:
+    Accuracy: 0.6950
+    Avg prediction | Perc: 0.6425
+    Avg prediction | Non-Perc: 0.4272
+  Run 5:
+    Accuracy: 0.7300
+    Avg prediction | Perc: 0.9353
+    Avg prediction | Non-Perc: 0.8663
+  Run 6:
+    Accuracy: 0.6650
+    Avg prediction | Perc: 0.7207
+    Avg prediction | Non-Perc: 0.5541
+  Run 7:
+    Accuracy: 0.4650
+    Avg prediction | Perc: 0.3655
+    Avg prediction | Non-Perc: 0.2103
+  Run 8:
+    Accuracy: 0.7450
+    Avg prediction | Perc: 0.9017
+    Avg prediction | Non-Perc: 0.7960
+  Run 9:
+    Accuracy: 0.6650
+    Avg prediction | Perc: 0.7742
+    Avg prediction | Non-Perc: 0.6295
+  Run 10:
+    Accuracy: 0.6350
+    Avg prediction | Perc: 0.8691
+    Avg prediction | Non-Perc: 0.7776
+
+  Summary statistics:
+    Accuracy: 0.6815 ± 0.0817
+    Avg prediction | Perc: 0.7776 ± 0.1661
+    Avg prediction | Non-Perc: 0.6298 ± 0.1980
+
