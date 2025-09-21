@@ -36,7 +36,9 @@ Scalar_Percolation/          # Direction of percolation not considered
       
 
 Directional_Percolation/     # Models that distinguish percolation directions
+
   fine_tuning/ 
+  
   learned_curves/
 
 ## Getting Started
