@@ -12,17 +12,28 @@ The model performs iterative coarse-graining to classify percolating vs. non-per
 - Learned rules converge to sigmoidal RG-like transformations, yielding estimates of p_c ≈ 0.569–0.589
 
 ## Repository Structure
+
 Scalar_Percolation/          # Direction of percolation not considered
+
   Fixed_Size/                # Models trained on fixed lattice sizes
+  
     NFC/                     # No First Coarse-graining
+    
     AFC/                     # Arithmetic First Coarse-graining
+    
     PFC/                     # Percolating First Coarse-graining
+    
 
   Mixed_Size/                # Models trained across multiple lattice sizes
+  
     AFC/                     # Best-performing approach
+    
       fine_tuning/           # Different sample to parameter ratios
+      
       scaling_collapse/      # Critical exponent analysis
+      
       learned_curves/        # Visualizations of learned rules
+      
 
 Directional_Percolation/     # Models that distinguish percolation directions
   fine_tuning/ 
